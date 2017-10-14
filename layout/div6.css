@@ -1,0 +1,42 @@
+ .a {
+	 border:3px solid grey;
+	 height:45px;
+	 width:400px;
+	 margin-left:450px;
+	 margin-top:120px;
+ }
+ .b {
+	 border:3px solid grey;
+	 height:90px;
+	 width:400px;
+	 margin-top:52px;
+	 margin-left:-3px;
+ }
+ .c {
+	 border:3px solid grey;
+	 height:65px;
+	 width:124px;
+	 margin-top:97px;
+	 margin-left:-3px;
+ }
+ .d {
+	 border:3px solid grey;
+	 height:65px;
+	 width:126px;
+	 margin-top:-3px;
+	 margin-left:131px;
+ }
+ .e {
+	 border:3px solid grey;
+	 height:65px;
+	 width:130px;
+	 margin-top:-3px;
+	 margin-left:133px;
+ }
+ .f {
+	 border:3px solid grey;
+	 height:45px;
+	 width:400px;
+	 margin-left:-272px;
+	 margin-top:72px;
+ }

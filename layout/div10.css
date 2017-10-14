@@ -1,0 +1,40 @@
+.a {
+border:1px solid lightgrey;
+height:40px;
+width:585px;
+margin-left:420px;
+margin-top:100px;
+background-color:#F0E68C;
+}
+.b {
+	 border:1px solid lightgrey;
+	 height:250px;
+	 width:160px;
+	 margin-left:-1px;
+	 margin-top:41px;
+	 background-color:#98FB98;
+ }
+ .c {
+	 border:1px solid lightgrey;
+	 height:110px;
+	 width:160px;
+	 margin-left:211px;
+	 margin-top:-1px;
+	 background-color:	#AFEEEE;
+ }
+ .d {
+	 border:1px solid lightgrey;
+	 height:205px;
+	 width:160px;
+	 margin-left:211px;
+	 margin-top:-1px;
+	 background-color:#DDA0DD;
+ }
+ .e {
+border:1px solid lightgrey;
+height:40px;
+width:585px;
+margin-left:-425px;
+margin-top:251px;
+background-color:#F0E68C;
+}
